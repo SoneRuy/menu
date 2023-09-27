@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+a{
+    color: brown;
+    font-size:  15px;
+}
+
+hr{
+    color: darkorchid;
+    font-size: 5px;
+}
+
+h1{
+    color: brown;
+}
+
+.container {
+    position: relative;
+    height: 20px;
+    
+  }
+  
+.content {
+    position: absolute;
+    left: 50%;
+    top: 75%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+  }
+  div{
+    color: brown;
+  }
+  table{
+    color: brown;
+  }
